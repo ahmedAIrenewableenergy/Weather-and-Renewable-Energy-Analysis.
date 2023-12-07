@@ -41,14 +41,18 @@ The objective of this project is to present valuable insights and recommendation
 ![download](https://github.com/ahmedAIrenewableenergy/Weather-and-Renewable-Energy-Analysis/assets/153191119/2d7314de-de50-4b05-9330-06347e753312)
 
 
+## Our Recommendations that could help solar system installation companies improve its processes based on the insights:
 
+**1. Geographic Location Selection:** Companies can choose installation locations with more sunny days and less occurrence of unfavorable weather conditions to maximize energy production.
 
+**2. Seasonal Adjustments:** Companies can adjust the functioning of solar systems according to seasonal changes to optimize energy production.
 
+**3. Temperature Management:** Since temperature has a nuanced impact on solar cells' efficiency, appropriate temperature regulation methods can be implemented to increase the overall efficiency of the system.
 
+**4. Time-Sensitive Power Usage:** Energy-intensive tasks could be scheduled around midday when energy production is generally at its peak, while less energy-intensive operations could be carried out during other parts of the day.
 
+**5. Weather Forecast Integration:** Weather forecasts can be integrated into the system operations to optimize energy generation based on upcoming weather conditions. This way, other renewables or storage could be managed to ensure power supply during less favorable weather conditions.
 
-
-
-
+# Done!
 
 
