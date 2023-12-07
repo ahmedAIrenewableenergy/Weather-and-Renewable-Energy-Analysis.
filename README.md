@@ -19,7 +19,7 @@ The objective of this project is to present valuable insights and recommendation
 3. Energy production varies throughout the year: It is highest during the summer months (between May and August) and lowest during winter. This can possibly be due to seasonal weather changes.
 ![download](https://github.com/ahmedAIrenewableenergy/Weather-and-Renewable-Energy-Analysis/assets/153191119/5c995bed-6bb5-43aa-a636-5995740c561d)
 
-4. Clear weather leads to greater energy production, while harsh weather conditions contribute to lower energy production.
+4. Clear weather leads to greater energy production, while harsh weather conditions contribute to lower energy production. On average, clear weather (weather_type = 1) contributes to higher energy generation, followed by partially cloudy (weather_type = 2) and cloudy weather (weather_type = 4). Rainy and snowy weather (weather_type = 3 and 5) show the least energy production, as expected.
 ![download](https://github.com/ahmedAIrenewableenergy/Weather-and-Renewable-Energy-Analysis/assets/153191119/ae96b776-a781-4da3-b4e9-e69e3a65f5fb)
 
 5. Higher temperatures can decrease the efficiency of solar panels, leading to lower energy output.
